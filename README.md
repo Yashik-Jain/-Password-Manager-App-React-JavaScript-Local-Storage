@@ -13,7 +13,7 @@ A **lightweight and efficient** Password Manager built with **React, JavaScript,
 
 ## 🛠️ Tech Stack
 - **Frontend**: React, JavaScript, CSS  
-- **Backend**: Node.js
+- **Backend**: Node.js , Express
 - **Database**: MongoDB (for cloud version)  
 - **State Management**: React Hooks  
 
